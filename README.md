@@ -17,11 +17,13 @@ Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. F
 *Mapping health trends through data-driven storytelling.*
 - **Tools:** `Python` `Looker Studio`
 - **Key Outcome:** Created interactive dashboards to visualize calorie burn and workout preferences.
-- [[View Project]: (https://github.com/maharaniyulianti90/EDA-Lifestyle)
-### 2. [Tokopedia Sentiment Analysis](LINK_REPO)
+- **View Project:** (https://github.com/maharaniyulianti90/EDA-Lifestyle)
+  
+### 2. [Tokopedia Sentiment Analysis]
 *Extracting business value from qualitative customer feedback.*
 - **Tools:** `Python` `NLP` `Logistic Regression`
 - **Key Outcome:** Automating sentiment detection to identify key factors behind customer (dis)satisfaction.
+- **View Project:** (https://github.com/maharaniyulianti90/Tokopedia-Nlp)
   
 ---
 ## Professional Experience
