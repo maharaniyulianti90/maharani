@@ -1,4 +1,4 @@
-# Hi, I'm [Maharani]! 👋
+# Hi, I'm Maharani Yulianti ! 👋
 
 ## About Me
 Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. Focused on turning complex datasets into actionable business insights.
@@ -13,10 +13,11 @@ Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. F
 ---
 
 ## Projects
-### 1. [Lifestyle & Fitness Analytics](LINK_REPO)
+### 1. [Lifestyle & Fitness Analytics]
 *Mapping health trends through data-driven storytelling.*
 - **Tools:** `Python` `Looker Studio`
 - **Key Outcome:** Created interactive dashboards to visualize calorie burn and workout preferences.
+- **[![View Project]:** (https://img.shields.io/badge/View_Project-Dashboard-blue?style=for-the-badge&logo=github)]([https://link-github-kamu.com](https://github.com/maharaniyulianti90/EDA-Lifestyle))
 
 ### 2. [Tokopedia Sentiment Analysis](LINK_REPO)
 *Extracting business value from qualitative customer feedback.*
