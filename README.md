@@ -17,8 +17,7 @@ Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. F
 *Mapping health trends through data-driven storytelling.*
 - **Tools:** `Python` `Looker Studio`
 - **Key Outcome:** Created interactive dashboards to visualize calorie burn and workout preferences.
-- **[![View Project]:** (https://img.shields.io/badge/View_Project-Dashboard-blue?style=for-the-badge&logo=github)]([https://link-github-kamu.com](https://github.com/maharaniyulianti90/EDA-Lifestyle))
-
+- [[View Project]: (https://github.com/maharaniyulianti90/EDA-Lifestyle)
 ### 2. [Tokopedia Sentiment Analysis](LINK_REPO)
 *Extracting business value from qualitative customer feedback.*
 - **Tools:** `Python` `NLP` `Logistic Regression`
