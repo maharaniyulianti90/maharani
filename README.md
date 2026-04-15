@@ -54,4 +54,4 @@ Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. F
 - HackerRank : Basic and Intermediate Sql
 - Author National Conference on Information and Communication Technology Innovation
 - Rapidminer	:	Machine Learning Professional Certification
-* [View Full Certificate](https://drive.google.com/drive/folders/1tLmzWFnRYLnQpN0chgaeRVfbWQ7ldz2D?hl=id)
+- [View Full Certificate](https://drive.google.com/drive/folders/1tLmzWFnRYLnQpN0chgaeRVfbWQ7ldz2D?hl=id)
