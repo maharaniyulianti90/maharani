@@ -1,36 +1,44 @@
 # Hi, I'm [Maharani]! 👋
 
-## 💫 About Me
+## About Me
 Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. Focused on turning complex datasets into actionable business insights.
 
 ---
 
-## 🛠 Skills
+## Skills
 - **Languages:** Python (Pandas, Numpy, Scikit-learn), SQL (PostgreSQL, MySQL)
 - **Tools:** Tableau, Excel, Google Colab, GitHub
 - **Analysis:** Exploratory Data Analysis (EDA), Data Cleaning & Data Preparation, Clustering (K-Means, RFM Analysis), Classification (Logistic Regression), Basic Natural Language Processing (NLP), Data Visualization, Dashboard Development
+  
 ---
 
-## 🚀 Projects
+## Projects
+### 1. [Lifestyle & Fitness Analytics](LINK_REPO)
+*Mapping health trends through data-driven storytelling.*
+- **Tools:** `Python` `Looker Studio`
+- **Key Outcome:** Created interactive dashboards to visualize calorie burn and workout preferences.
 
-### 1. [Exploratory Data Analysis|Lifestyle & Sports Activity Dataset]
-- **Impact:** Uncovered key patterns in calorie burn and workout preferences across user demographics.
-- **Action:** Conducted EDA with Python and developed an interactive Looker Studio dashboard for data-driven storytelling.
-- **Tools:** Python, Looker Studio
-- **Explore Code & Dashboard**
+### 2. [Tokopedia Sentiment Analysis](LINK_REPO)
+*Extracting business value from qualitative customer feedback.*
+- **Tools:** `Python` `NLP` `Logistic Regression`
+- **Key Outcome:** Automating sentiment detection to identify key factors behind customer (dis)satisfaction.
+  
+---
+## Professional Experience
+### 1. [Administrative Coordinator | English 1]
+*Jan 25 - Jan 26*
+- Optimized class utilization for 40+ weekly sessions by developing an Excel-based scheduling system, successfully eliminating scheduling conflicts and improving resource allocation.
+- Increased payroll accuracy and reporting consistency by implementing a structured validation system for teacher attendance and overtime across 5+ diverse programs.
+- Accelerated operational decision-making by building automated weekly and monthly performance dashboards to track KPIs and class efficiency.
+- Enhanced operational transparency through the implementation of a standardized data tracking system, reducing reporting discrepancies.
 
-### 2. [Lifestyle & Sports Activity Dataset]
-- **Impact:** Identified hidden satisfaction trends and key drivers of positive/negative sentiment beyond simple star ratings.
-- **Action:** Built a classification model using NLP and Logistic Regression in Python to extract frequently occurring terms from customer feedback.
-- **Tools:** Python (NLP)
-- **Explore Code & Dashboard**
-- 
 ---
 
-## 🎓 Education & Certifications
-- **[Nama Universitas/Gelar]** - [Tahun]
-- **[Sertifikat 1]** - [Penyelenggara]
-- **[Sertifikat 2]** - [Penyelenggara]
+## Education & Certifications
+- **Universitas Teknologi Yogyakarta | Bachelor Of Data Science - GPA 3,74** - [2024]
+- **Relevan Courseworks:** Data Preparation, Big Data And Data Analytics, Management Database
+- **Areas Of Interes:** Data Analyst, Data Science, Database Administrator
+
 
 <details>
   <summary>📸 Klik untuk melihat koleksi Sertifikat</summary>
