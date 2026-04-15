@@ -3,32 +3,28 @@
 ## 💫 About Me
 Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. Focused on turning complex datasets into actionable business insights.
 
-- 🔭 Saya sedang mengerjakan proyek: [Sebutkan proyek terbaru]
-- 🌱 Saya sedang mendalami: [Tableau / Machine Learning / dll]
-- 📫 Hubungi saya di: [Email Anda] atau [Link LinkedIn]
-
 ---
 
 ## 🛠 Skills
 - **Languages:** Python (Pandas, Numpy, Scikit-learn), SQL (PostgreSQL, MySQL)
 - **Tools:** Tableau, Excel, Google Colab, GitHub
-- **Focus:** Sentiment Analysis, E-commerce Data, Data Cleaning
-
+- **Analysis:** Exploratory Data Analysis (EDA), Data Cleaning & Data Preparation, Clustering (K-Means, RFM Analysis), Classification (Logistic Regression), Basic Natural Language Processing (NLP), Data Visualization, Dashboard Development
 ---
 
 ## 🚀 Projects
-Berikut adalah beberapa proyek unggulan saya yang bisa Anda tinjau kodenya:
 
-### 1. [Nama Proyek 1, misal: E-commerce Sales Analysis]
-**Deskripsi Singkat:** Menganalisis pola pembelian pelanggan untuk meningkatkan retensi penjualan.
-- **Tools:** SQL & Tableau
-- [👉 Lihat Detail Kode & Penjelasan]([LINK_KE_REPOSITORY_1_ANDA])
+### 1. [Exploratory Data Analysis|Lifestyle & Sports Activity Dataset]
+- **Impact:** Uncovered key patterns in calorie burn and workout preferences across user demographics.
+- **Action:** Conducted EDA with Python and developed an interactive Looker Studio dashboard for data-driven storytelling.
+- **Tools:** Python, Looker Studio
+- **Explore Code & Dashboard**
 
-### 2. [Nama Proyek 2, misal: Sentiment Analysis User Review]
-**Deskripsi Singkat:** Mengklasifikasikan komentar user untuk mendapatkan insight kualitatif yang lebih powerful dibanding rating.
+### 2. [Lifestyle & Sports Activity Dataset]
+- **Impact:** Identified hidden satisfaction trends and key drivers of positive/negative sentiment beyond simple star ratings.
+- **Action:** Built a classification model using NLP and Logistic Regression in Python to extract frequently occurring terms from customer feedback.
 - **Tools:** Python (NLP)
-- [👉 Lihat Detail Kode & Penjelasan]([LINK_KE_REPOSITORY_2_ANDA])
-
+- **Explore Code & Dashboard**
+- 
 ---
 
 ## 🎓 Education & Certifications
