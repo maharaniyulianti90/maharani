@@ -24,6 +24,12 @@ Data-driven problem solver specialized in SQL, Python, and Strategic Analysis. F
 - **Tools:** `Python` `NLP` `Logistic Regression`
 - **Key Outcome:** Automating sentiment detection to identify key factors behind customer (dis)satisfaction.
 - **View Project:** (https://github.com/maharaniyulianti90/Tokopedia-Nlp)
+
+### 3. [Ecommerce Sales SQL Analysis]
+*Analyzing customer gender distribution and market trends to optimize marketing strategy.*
+- **Tools:** `PostgreSQL` `Power Bi` `DBeaver`
+- **Key Outcome:** Identified that male customers dominate the market by nearly 3x, leading to a new targeted marketing strategy for the female segment
+- **View Project:** [(https://github.com/maharaniyulianti90/Tokopedia-Nlp)](https://github.com/maharaniyulianti90/Ecommerce-Sales-SQL-Analysis)
   
 ---
 ## Professional Experience
